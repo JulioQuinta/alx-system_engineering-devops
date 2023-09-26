@@ -1,1 +1,35 @@
-ls -la
+total 140
+drwxr-xr-x 2 root root  4096 Sep 10 21:04 .
+drwxr-xr-x 6 root root   121 Sep  8 03:29 ..
+-rwxr--r-- 1 root root    32 Sep  8 06:33 0-hello_world
+-rw------- 1 root root 12288 Sep  8 03:47 .0-hello_world.swo
+-rw------- 1 root root 12288 Sep  8 03:42 .0-hello_world.swp
+-rwxr--r-- 1 root root    56 Sep 10 20:08 100-empty_casks
+-rwxr--r-- 1 root root    87 Sep 10 20:12 101-gifs
+-rwxr--r-- 1 root root    37 Sep 10 20:14 102-acrostic
+-rwxr--r-- 1 root root    99 Sep 10 20:18 103-the_biggest_fan
+-rwxr--r-- 1 root root    48 Sep 10 19:27 10-no_more_js
+-rwxr--r-- 1 root root    46 Sep 10 19:33 11-directories
+-rwxr--r-- 1 root root    32 Sep 10 19:35 12-newest_files
+-rwxr--r-- 1 root root    27 Sep 10 19:37 13-unique
+-rwxr--r-- 1 root root    39 Sep 10 19:39 14-findthatword
+-rwxr--r-- 1 root root    47 Sep 10 20:53 15-countthatword
+-rwxr--r-- 1 root root    44 Sep 10 19:45 16-whatsnext
+-rwxr--r-- 1 root root    41 Sep 10 19:48 17-hidethisword
+-rwxr--r-- 1 root root    51 Sep 10 19:54 18-letteronly
+-rwxr--r-- 1 root root    36 Sep 10 19:56 19-AZ
+-rwxr--r-- 1 root root    28 Sep  8 06:43 1-confused_smiley
+-rwxr--r-- 1 root root    23 Sep 10 19:58 20-hiago
+-rwxr--r-- 1 root root    16 Sep 10 20:00 21-reverse
+-rwxr--r-- 1 root root    49 Sep 10 20:03 22-users_and_homes
+-rwxr--r-- 1 root root    28 Sep  8 06:54 2-hellofile
+-rwxr--r-- 1 root root    40 Sep  8 07:14 3-twofiles
+-rwxr--r-- 1 root root    29 Sep  8 07:24 4-lastlines
+-rwxr--r-- 1 root root    29 Sep  8 07:39 5-firstlines
+-rwxr--r-- 1 root root    36 Sep  9 21:20 6-third_line
+-rwxr--r-- 1 root root    75 Sep 10 09:26 7-file
+-rwxr-xr-x 1 root root    36 Sep 10 21:04 8-cwd_state
+-rwxr--r-- 1 root root    37 Sep 10 19:21 9-duplicate_last_line
+-rwxr--r-- 1 root root     0 Sep 10 19:21 iacta
+-rwxr--r-- 1 root root     0 Sep 10 21:07 ls_cwd_content
+-rw-r--r-- 1 root root    19 Sep  8 03:35 README.md
